@@ -12,9 +12,9 @@ Identify and describe at least three key milestones in the evolution of software
 
 **Early Foundations (1940s-1950s)**:  This period saw the invention of the first Digital Computers like ENIAC and UNIVAC.Software was written in machine code and assembly language. They had Assembly languages which simplified programming. There was the birth of High-level languages FORTRAN (1957) and LISP (1958) (1950s)
 
-**The Software Crisis & Structured Programming (1960s – 1970s)**: Growing software complexity led to unreliable and costly projects. Hence, the introduction of the term “Software Engineering” coined at the 1968 NATO Conference to address these challenges. Edsger Dijkstra promoted structured programming to improve readability and maintainability. Languages like Pascal (1970) and C (1972) emerged.The Waterfall Model (1970) formalized a step-by-step approach to software development.
+**The Software Crisis & Structured Programming (1960s - 1970s)**: Growing software complexity led to unreliable and costly projects. Hence, the introduction of the term 'Software Engineering' coined at the 1968 NATO Conference to address these challenges. Edsger Dijkstra promoted structured programming to improve readability and maintainability. Languages like Pascal (1970) and C (1972) emerged.The Waterfall Model (1970) formalized a step-by-step approach to software development.
 
-**Rise of Object-Oriented Programming (OOP) & Software Development Methodologies (1980s – 1990s)**: Smalltalk (1980) and C++ (1985) introduced OOP concepts which promoted reusability, modularity, and scalability. Spiral Model (1986) combined iterative development with risk assessment and formalised software testing methods were introduced. The World Wide Web (1991) expanded software’s reach, Java (1995) enabled cross-platform development and the open-source movement grew with Linux (1991) and Apache (1995).
+**Rise of Object-Oriented Programming (OOP) & Software Development Methodologies (1980s - 1990s)**: Smalltalk (1980) and C++ (1985) introduced OOP concepts which promoted reusability, modularity, and scalability. Spiral Model (1986) combined iterative development with risk assessment and formalised software testing methods were introduced. The World Wide Web (1991) expanded software’s reach, Java (1995) enabled cross-platform development and the open-source movement grew with Linux (1991) and Apache (1995).
 
 
 **Q2. List and briefly explain the phases of the Software Development Life Cycle.**
@@ -143,27 +143,27 @@ Integrated Tools: Combines code editors, compilers, version control, and debuggi
 Customization & Plugins: Supports plugins and extensions for additional functionality.
 
 **Examples of Popular IDEs**
-Visual Studio Code (VS Code) – A lightweight, open-source IDE with extensive extensions and support for multiple languages.
-IntelliJ IDEA – A powerful Java-focused IDE with smart code assistance and advanced debugging.
-Eclipse – A widely used Java IDE that supports multiple plugins and integrations.
-PyCharm – A specialized IDE for Python development with strong debugging tools.
-Xcode – The official IDE for macOS and iOS development, used for Swift and Objective-C projects.
+Visual Studio Code (VS Code) - A lightweight, open-source IDE with extensive extensions and support for multiple languages.
+IntelliJ IDEA - A powerful Java-focused IDE with smart code assistance and advanced debugging.
+Eclipse - A widely used Java IDE that supports multiple plugins and integrations.
+PyCharm - A specialized IDE for Python development with strong debugging tools.
+Xcode - The official IDE for macOS and iOS development, used for Swift and Objective-C projects.
 
 **VERSION CONTROL SYSTEMS(VCS)**
 A Version Control System (VCS) is a tool that helps developers track changes in source code, collaborate on projects, and revert to previous versions when necessary.
 
 **Importance of VCS**
-Collaboration: Multiple developers can work on the same project without overwriting each other’s work.
+Collaboration: Multiple developers can work on the same project without overwriting each others work.
 Code History & Tracking: Keeps a record of all changes, allowing developers to revert to previous versions if needed.
 Branching & Merging: Enables working on new features or bug fixes in separate branches without affecting the main project.
 Backup & Recovery: Prevents code loss by storing all changes and versions securely.
 Code Review & Quality Assurance: Facilitates peer reviews and code audits before merging changes.
 
 **Examples of Popular VCS**
-Git – The most widely used VCS, supporting distributed development and used in platforms like GitHub, GitLab, and Bitbucket.
-Apache Subversion (SVN) – A centralized version control system, popular in legacy enterprise applications.
-Mercurial – A distributed VCS known for its scalability and ease of use.
-Perforce (Helix Core) – A VCS commonly used in large enterprises and game development
+Git - The most widely used VCS, supporting distributed development and used in platforms like GitHub, GitLab, and Bitbucket.
+Apache Subversion (SVN) - A centralized version control system, popular in legacy enterprise applications.
+Mercurial - A distributed VCS known for its scalability and ease of use.
+Perforce (Helix Core) - A VCS commonly used in large enterprises and game development
 
 
 **Q6. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.**
@@ -283,7 +283,7 @@ Prevents Module-Level Errors: Catches errors that unit tests may not detect.
 **Tools for Automation:** Postman (API testing), Selenium, JUnit, and TestNG are commonly used.
 
 **Example:**
-Testing how a payment processing module interacts with a bank’s API to verify transactions.
+Testing how a payment processing module interacts with a bank's API to verify transactions.
 
 **3. System Testing**
 System testing evaluates the complete software application as a whole, ensuring it meets functional and non-functional requirements.
@@ -344,11 +344,11 @@ AI models like GPT can be tailored for specific industries (e.g., legal, medical
 Example: "Provide legal advice based on U.S. intellectual property laws."
 
 **Best Practices for Effective Prompt Engineering**
-Be Specific & Clear – Define the format, style, and details required.
-Provide Context – Give background information to guide the AI.
-Use Step-by-Step Instructions – Break complex queries into logical steps.
-Experiment & Iterate – Test different prompts and refine based on AI responses.
-Set Constraints – Limit word count, tone, or output structure when needed
+Be Specific & Clear - Define the format, style, and details required.
+Provide Context - Give background information to guide the AI.
+Use Step-by-Step Instructions - Break complex queries into logical steps.
+Experiment & Iterate - Test different prompts and refine based on AI responses.
+Set Constraints - Limit word count, tone, or output structure when needed
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
